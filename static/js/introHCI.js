@@ -26,9 +26,9 @@ function projectClick(e) {
 	// In an event handler, $(this) refers to 
 	// the object that triggered the event 
 	$(this).css("background-color", "#7fff00");
-
+	/*
 	var containProject = $(this).closest(".project");
 	containProject.append("<div
 	class='project-description'><p>Descripton of the
-	project.</p></div>");
+	project.</p></div>");*/
 }
